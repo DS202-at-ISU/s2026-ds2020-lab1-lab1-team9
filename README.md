@@ -44,14 +44,6 @@ you are done with your submission.
 - Samara’s note: I am considering my notes from the pervious steps as
   changes. Now I will commit with hopefully no issues.
 
--sravya’s note:already done e
-
-### Step 12.3
-
-Sravya: Created Project with no isuue
-
-### Step 12.4
-
 Sravya: Only after saving the changes, i can use the commit command. And
 sent a commit message.
 
