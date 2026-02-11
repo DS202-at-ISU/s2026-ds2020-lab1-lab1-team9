@@ -25,14 +25,19 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 
 - Samara's note: I already had all of the prerequisits met, so I was able to skip over this step
 
+- Alyvia's note: I completed this step prior so all of the prerequisites are met.
 
 -sravya's note:already done
 
 ### Step 12.2
 - Samara's note: Since a repo was already made for us, I did not have to go through these steps
 
+- Alyvia's note: This repo was made for us.
+
 ### Step 12.3
 - Samara's note: I followed the steps to create a new project from version control. I used the default name for the repo, and saved it into a folder titled "Labs", everything worked as expected
+
+- Alyvia's note: I followed this step and created the new project using the repo url provided.
 
 - Sravya note: Created Project with no isuue 
 
