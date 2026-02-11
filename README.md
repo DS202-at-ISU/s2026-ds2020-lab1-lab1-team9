@@ -24,17 +24,30 @@ you are done with your submission.
 - Samara’s note: I already had all of the prerequisits met, so I was
   able to skip over this step
 
+<<<<<<< HEAD
 - Alyvia’s note: I completed this step prior to lab, so all of the
   prerequisites are met.
+=======
+- Shiva’s note: Met all the prerequisits.
 
-- sravya’s note: Already done
+- Sravya’s note: Already done
+
+- Alyvia’s note: I completed this step prior so all of the prerequisites
+  are met.
+>>>>>>> e32e388467895d44a3edb2f8da29dedef1bcabf2
 
 ### Step 12.2
 
 - Samara’s note: Since a repo was already made for us, I did not have to
   go through these steps
 
+<<<<<<< HEAD
 - Alyvia’s note: The repo for this step was provided.
+=======
+- Shiva’s note: Repository already created, mnoved on to next steps.
+
+- Alyvia’s note: This repo was made for us.
+>>>>>>> e32e388467895d44a3edb2f8da29dedef1bcabf2
 
 - Sravya’s note: Made Repo in previous class.
 
@@ -44,15 +57,19 @@ you are done with your submission.
   version control. I used the default name for the repo, and saved it
   into a folder titled “Labs”, everything worked as expected
 
+- Shiva’s note: Followed the steps and created a new project.
+
+- Sravya note: Created Project with no isuue
+
 - Alyvia’s note: I followed this step and created the new project using
   the repo url provided.
-
-- Sravya note: Created Project with no isuue.
 
 ### Step 12.4
 
 - Samara’s note: I am considering my notes from the pervious steps as
   changes. Now I will commit with hopefully no issues.
+
+- Shiva’s note: Succesfully commited.
 
 - Alyvia’s note: I have commited my prior notes for this step, and I
   will commit this note as well.
@@ -64,6 +81,11 @@ you are done with your submission.
 
 - Samara’s note: Since I was the first to push, I was able to push
   without any issues.
+
+- Shiva’s note: Faced some problem pushing the changes, was not able to
+  get the push/pull button. Had to use some git rebase commands to
+  complete that task, and then was able to get the push/pull after
+  kniting the Rmd file again.
 
 - Sravya’s note: unable to push after commiting the changes. Resolved it
   by saving the changes then kniting it into a html file and then used
