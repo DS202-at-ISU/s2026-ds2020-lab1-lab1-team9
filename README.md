@@ -24,8 +24,8 @@ you are done with your submission.
 - Samara’s note: I already had all of the prerequisits met, so I was
   able to skip over this step
 
-- Alyvia’s note: I completed this step prior so all of the prerequisites
-  are met.
+- Alyvia’s note: I completed this step prior to lab, so all of the
+  prerequisites are met.
 
 - sravya’s note: Already done
 
@@ -34,7 +34,7 @@ you are done with your submission.
 - Samara’s note: Since a repo was already made for us, I did not have to
   go through these steps
 
-- Alyvia’s note: This repo was made for us.
+- Alyvia’s note: The repo for this step was provided.
 
 - Sravya’s note: Made Repo in previous class.
 
@@ -72,9 +72,9 @@ you are done with your submission.
   and push command.
 
 - Alyvia’s note: I ran into an issue when attempting to push. This was
-  fixed by fixing changes and using the terminal to “git add .” and “git
-  status”. I then knitted the file and the push went through
-  successfully.
+  fixed by working through and saving the changes while using the
+  terminal to use commands like “git add .” and “git status”. I then
+  knitted the file and the push went through successfully.
 
 ### Step 12.6
 
@@ -83,9 +83,14 @@ you are done with your submission.
 
 - Sravya’s note:
 
+- Alyvia’s note: After refreshing the browser, I was able to see my
+  commit message and the new line in README.
+
 ### Step 12.7
 
 - Samara’s note: Since we are skipping the clean up, I am making no
   notes.
 
 - Sravya’s note:
+
+- Alyvia’s note: This step is meant to be skipped for this lab.
