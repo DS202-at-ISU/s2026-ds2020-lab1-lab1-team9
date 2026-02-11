@@ -47,9 +47,13 @@ Sravya: Created Project with no isuue
 ### Step 12.4
 Sravya: Only after saving the changes, i can use the commit command. And sent a commit message.
 
+<<<<<<< HEAD
 
 ### Step 12.5
 - Samara's note: Since I was the first to push, I was able to push without any issues.
+=======
+g
+>>>>>>> 2c965e5 (update)
 
 ### Step 12.6
 - Samara's note: I was able to see my commit message and the updated code within the GitHub remote
