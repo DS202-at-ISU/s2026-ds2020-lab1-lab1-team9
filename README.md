@@ -17,6 +17,11 @@ grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+
+>>>>>>> de49e3d (update to the .Rmd file)
 # Notes from Chapter 12
 
 ### Step 12.1
@@ -51,6 +56,13 @@ you are done with your submission.
   code within the GitHub remote
 
 ### Step 12.7
+<<<<<<< HEAD
 
 - Samara’s note: Since we are skipping the clean up, I am making no
   notes.
+=======
+- Samara's note:
+=======
+\#chapter 12 testing 12.3
+>>>>>>> ef475d2 (Commit from RStudio)
+>>>>>>> de49e3d (update to the .Rmd file)
