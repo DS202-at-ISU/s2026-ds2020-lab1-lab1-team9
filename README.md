@@ -24,12 +24,14 @@ you are done with your submission.
 - Samara’s note: I already had all of the prerequisits met, so I was
   able to skip over this step
 
--sravya’s note:already done
+- sravya’s note: Already done
 
 ### Step 12.2
 
 - Samara’s note: Since a repo was already made for us, I did not have to
   go through these steps
+
+- Sravya’s note: Made Repo in previous class.
 
 ### Step 12.3
 
@@ -37,27 +39,37 @@ you are done with your submission.
   version control. I used the default name for the repo, and saved it
   into a folder titled “Labs”, everything worked as expected
 
-- Sravya note: Created Project with no isuue
+- Sravya note: Created Project with no isuue.
 
 ### Step 12.4
 
 - Samara’s note: I am considering my notes from the pervious steps as
   changes. Now I will commit with hopefully no issues.
 
-Sravya: Only after saving the changes, i can use the commit command. And
-sent a commit message.
+- Sravya’s note: Only after saving the changes, i can use the commit
+  command. And sent a commit message.
 
 ### Step 12.5
 
 - Samara’s note: Since I was the first to push, I was able to push
   without any issues.
 
+- Sravya’s note: unable to push after commiting the changes. Resolved it
+  by saving the changes then kniting it into a html file and then used
+  commands in terminal such as “git add .”, “git rebase –continue” and
+  :q to quit and resolve all the commits. then was able to use the pull
+  and push command.
+
 ### Step 12.6
 
 - Samara’s note: I was able to see my commit message and the updated
   code within the GitHub remote
 
+- Sravya’s note:
+
 ### Step 12.7
 
 - Samara’s note: Since we are skipping the clean up, I am making no
   notes.
+
+- Sravya’s note:
