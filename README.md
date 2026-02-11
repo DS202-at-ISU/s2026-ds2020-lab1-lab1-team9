@@ -23,20 +23,25 @@ you are done with your submission.
 
 - Samara’s note: I already had all of the prerequisits met, so I was
   able to skip over this step
-- 
 
--sravya’s note:already done
+- Shiva’s note: Met all the prerequisits.
+
+- Sravya’s note:already done
 
 ### Step 12.2
 
 - Samara’s note: Since a repo was already made for us, I did not have to
   go through these steps
 
+- Shiva’s note: Repository already created, mnoved on to next steps.
+
 ### Step 12.3
 
 - Samara’s note: I followed the steps to create a new project from
   version control. I used the default name for the repo, and saved it
   into a folder titled “Labs”, everything worked as expected
+
+- Shiva’s note: Followed the steps and created a new project.
 
 - Sravya note: Created Project with no isuue
 
@@ -45,20 +50,25 @@ you are done with your submission.
 - Samara’s note: I am considering my notes from the pervious steps as
   changes. Now I will commit with hopefully no issues.
 
-Sravya: Only after saving the changes, i can use the commit command. And
-sent a commit message.
+- Shiva’s note: Succesfully commited.
+
+- Sravya: Only after saving the changes, i can use the commit command.
+  And sent a commit message.
 
 ### Step 12.5
 
 - Samara’s note: Since I was the first to push, I was able to push
   without any issues.
 
-### Step 12.6
+- Shiva’s note: Faced some problem pushing the changes, was not able to
+  get the push/pull button. Had to use some git rebase commands to
+  complete that task, and then was able to get the push/pull after
+  kniting the Rmd file again. \### Step 12.6
 
 - Samara’s note: I was able to see my commit message and the updated
   code within the GitHub remote
 
-### Step 12.7
+- Shiva’s note: \### Step 12.7
 
 - Samara’s note: Since we are skipping the clean up, I am making no
   notes.
