@@ -27,11 +27,9 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 
 - Shiva's note: Met all the prerequisits.
 
-- Sravya's note:already done
+- Sravya's note: Already done
 
 - Alyvia's note: I completed this step prior so all of the prerequisites are met.
-
-- sravya's note: Already done
 
 ### Step 12.2
 - Samara's note: Since a repo was already made for us, I did not have to go through these steps
@@ -46,23 +44,18 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 ### Step 12.3
 - Samara's note: I followed the steps to create a new project from version control. I used the default name for the repo, and saved it into a folder titled "Labs", everything worked as expected
 
-
 - Shiva's note: Followed the steps and created a new project.
 
 - Sravya note: Created Project with no isuue 
 
 - Alyvia's note: I followed this step and created the new project using the repo url provided.
 
-- Sravya note: Created Project with no isuue. 
 
 
 ### Step 12.4
 - Samara's note: I am considering my notes from the pervious steps as changes. Now I will commit with hopefully no issues.
 
-
 - Shiva's note: Succesfully commited.
-
-- Sravya: Only after saving the changes, i can use the commit command. And sent a commit message.
 
 - Alyvia's note: I have commited my prior notes for this step, and I will commit this note as well.
 
@@ -72,13 +65,7 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 ### Step 12.5
 - Samara's note: Since I was the first to push, I was able to push without any issues.
 
-
-- Shiva's note: Faced some problem pushing the changes, was not able to get the push/pull button.
-                Had to use some git rebase commands to complete that task, and then was able to get                 the push/pull after kniting the Rmd file again.
-### Step 12.6
-- Samara's note: I was able to see my commit message and the updated code within the GitHub remote
-
-- Shiva's note: 
+- Shiva's note: Faced some problem pushing the changes, was not able to get the push/pull button. Had to use some git rebase commands to complete that task, and then was able to get the push/pull after kniting the Rmd file again.
 
 - Sravya's note: unable to push after commiting the changes. Resolved it by saving the changes then kniting it into a html file and then used commands in terminal such as "git add .", "git rebase --continue" and :q to quit and resolve all the commits. then was able to use the pull and push command.
 

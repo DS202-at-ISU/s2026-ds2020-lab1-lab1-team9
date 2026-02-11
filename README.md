@@ -24,29 +24,23 @@ you are done with your submission.
 - Samara’s note: I already had all of the prerequisits met, so I was
   able to skip over this step
 
-<<<<<<< HEAD
 - Shiva’s note: Met all the prerequisits.
 
-- Sravya’s note:already done
-=======
+- Sravya’s note: Already done
+
 - Alyvia’s note: I completed this step prior so all of the prerequisites
   are met.
-
-- sravya’s note: Already done
->>>>>>> refs/remotes/origin/main
 
 ### Step 12.2
 
 - Samara’s note: Since a repo was already made for us, I did not have to
   go through these steps
 
-<<<<<<< HEAD
 - Shiva’s note: Repository already created, mnoved on to next steps.
-=======
+
 - Alyvia’s note: This repo was made for us.
 
 - Sravya’s note: Made Repo in previous class.
->>>>>>> refs/remotes/origin/main
 
 ### Step 12.3
 
@@ -54,46 +48,36 @@ you are done with your submission.
   version control. I used the default name for the repo, and saved it
   into a folder titled “Labs”, everything worked as expected
 
-<<<<<<< HEAD
 - Shiva’s note: Followed the steps and created a new project.
 
 - Sravya note: Created Project with no isuue
-=======
+
 - Alyvia’s note: I followed this step and created the new project using
   the repo url provided.
-
-- Sravya note: Created Project with no isuue.
->>>>>>> refs/remotes/origin/main
 
 ### Step 12.4
 
 - Samara’s note: I am considering my notes from the pervious steps as
   changes. Now I will commit with hopefully no issues.
 
-<<<<<<< HEAD
 - Shiva’s note: Succesfully commited.
 
-- Sravya: Only after saving the changes, i can use the commit command.
-  And sent a commit message.
-=======
 - Alyvia’s note: I have commited my prior notes for this step, and I
   will commit this note as well.
 
 - Sravya’s note: Only after saving the changes, i can use the commit
   command. And sent a commit message.
->>>>>>> refs/remotes/origin/main
 
 ### Step 12.5
 
 - Samara’s note: Since I was the first to push, I was able to push
   without any issues.
 
-<<<<<<< HEAD
 - Shiva’s note: Faced some problem pushing the changes, was not able to
   get the push/pull button. Had to use some git rebase commands to
   complete that task, and then was able to get the push/pull after
-  kniting the Rmd file again. \### Step 12.6
-=======
+  kniting the Rmd file again.
+
 - Sravya’s note: unable to push after commiting the changes. Resolved it
   by saving the changes then kniting it into a html file and then used
   commands in terminal such as “git add .”, “git rebase –continue” and
@@ -106,18 +90,13 @@ you are done with your submission.
   successfully.
 
 ### Step 12.6
->>>>>>> refs/remotes/origin/main
 
 - Samara’s note: I was able to see my commit message and the updated
   code within the GitHub remote
 
-<<<<<<< HEAD
-- Shiva’s note: \### Step 12.7
-=======
 - Sravya’s note:
 
 ### Step 12.7
->>>>>>> refs/remotes/origin/main
 
 - Samara’s note: Since we are skipping the clean up, I am making no
   notes.
