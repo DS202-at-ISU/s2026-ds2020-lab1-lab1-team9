@@ -23,6 +23,7 @@ you are done with your submission.
 
 - Samara’s note: I already had all of the prerequisits met, so I was
   able to skip over this step
+- 
 
 -sravya’s note:already done
 
