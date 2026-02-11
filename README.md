@@ -31,14 +31,17 @@ you are done with your submission.
 
 - Sravya’s note: Already done
 
+- Alyvia’s note: I completed this step prior so all of the prerequisites
+  are met.
+
 ### Step 12.2
 
 - Samara’s note: Since a repo was already made for us, I did not have to
   go through these steps
 
-- Alyvia’s note: The repo for this step was provided.
-
 - Shiva’s note: Repository already created, mnoved on to next steps.
+
+- Alyvia’s note: This repo was made for us.
 
 - Sravya’s note: Made Repo in previous class.
 
@@ -94,7 +97,8 @@ you are done with your submission.
 - Samara’s note: I was able to see my commit message and the updated
   code within the GitHub remote
 
-- Sravya’s note:
+- Sravya’s note: successfully able to see the commit message in README
+  file.
 
 - Alyvia’s note: After refreshing the browser, I was able to see my
   commit message and the new line in README.
@@ -104,6 +108,6 @@ you are done with your submission.
 - Samara’s note: Since we are skipping the clean up, I am making no
   notes.
 
-- Sravya’s note:
-
 - Alyvia’s note: This step is meant to be skipped for this lab.
+
+- Sravya’s note: no note.

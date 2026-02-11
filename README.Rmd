@@ -25,11 +25,10 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 
 - Samara's note: I already had all of the prerequisits met, so I was able to skip over this step
 
-<<<<<<< HEAD
 - Alyvia's note: I completed this step prior to lab, so all of the prerequisites are met.
-=======
+
 - Shiva's note: Met all the prerequisits.
->>>>>>> e32e388467895d44a3edb2f8da29dedef1bcabf2
+
 
 - Sravya's note: Already done
 
@@ -38,13 +37,9 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 ### Step 12.2
 - Samara's note: Since a repo was already made for us, I did not have to go through these steps
 
-<<<<<<< HEAD
-- Alyvia's note: The repo for this step was provided.
-=======
 - Shiva's note: Repository already created, mnoved on to next steps.
 
 - Alyvia's note: This repo was made for us.
->>>>>>> e32e388467895d44a3edb2f8da29dedef1bcabf2
 
 - Sravya's note: Made Repo in previous class.
 
@@ -83,13 +78,14 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 ### Step 12.6
 - Samara's note: I was able to see my commit message and the updated code within the GitHub remote
 
-- Sravya's note:
+- Sravya's note: successfully able to see the commit message in README file.
 
 - Alyvia's note: After refreshing the browser, I was able to see my commit message and the new line in README.
 
 ### Step 12.7
 - Samara's note: Since we are skipping the clean up, I am making no notes.
 
-- Sravya's note:
-
 - Alyvia's note: This step is meant to be skipped for this lab.
+
+- Sravya's note: no note.
+
