@@ -46,12 +46,16 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 ### Step 12.4
 - Samara's note: I am considering my notes from the pervious steps as changes. Now I will commit with hopefully no issues.
 
+- Alyvia's note: I have commited my prior notes for this step, and I will commit this note as well.
+
 - Sravya's note: Only after saving the changes, i can use the commit command. And sent a commit message.
 
 ### Step 12.5
 - Samara's note: Since I was the first to push, I was able to push without any issues.
 
 - Sravya's note: unable to push after commiting the changes. Resolved it by saving the changes then kniting it into a html file and then used commands in terminal such as "git add .", "git rebase --continue" and :q to quit and resolve all the commits. then was able to use the pull and push command.
+
+- Alyvia's note: I ran into an issue when attempting to push. This was fixed by fixing changes and using the terminal to "git add ." and "git status". I then knitted the file and the push went through successfully. 
 
 
 ### Step 12.6

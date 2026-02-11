@@ -24,12 +24,17 @@ you are done with your submission.
 - Samara’s note: I already had all of the prerequisits met, so I was
   able to skip over this step
 
+- Alyvia’s note: I completed this step prior so all of the prerequisites
+  are met.
+
 - sravya’s note: Already done
 
 ### Step 12.2
 
 - Samara’s note: Since a repo was already made for us, I did not have to
   go through these steps
+
+- Alyvia’s note: This repo was made for us.
 
 - Sravya’s note: Made Repo in previous class.
 
@@ -39,12 +44,18 @@ you are done with your submission.
   version control. I used the default name for the repo, and saved it
   into a folder titled “Labs”, everything worked as expected
 
+- Alyvia’s note: I followed this step and created the new project using
+  the repo url provided.
+
 - Sravya note: Created Project with no isuue.
 
 ### Step 12.4
 
 - Samara’s note: I am considering my notes from the pervious steps as
   changes. Now I will commit with hopefully no issues.
+
+- Alyvia’s note: I have commited my prior notes for this step, and I
+  will commit this note as well.
 
 - Sravya’s note: Only after saving the changes, i can use the commit
   command. And sent a commit message.
@@ -59,6 +70,11 @@ you are done with your submission.
   commands in terminal such as “git add .”, “git rebase –continue” and
   :q to quit and resolve all the commits. then was able to use the pull
   and push command.
+
+- Alyvia’s note: I ran into an issue when attempting to push. This was
+  fixed by fixing changes and using the terminal to “git add .” and “git
+  status”. I then knitted the file and the push went through
+  successfully.
 
 ### Step 12.6
 
