@@ -17,17 +17,14 @@ grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-
->>>>>>> de49e3d (update to the .Rmd file)
 # Notes from Chapter 12
 
 ### Step 12.1
 
 - Samara’s note: I already had all of the prerequisits met, so I was
   able to skip over this step
+
+-sravya’s note:already done
 
 ### Step 12.2
 
@@ -40,10 +37,23 @@ you are done with your submission.
   version control. I used the default name for the repo, and saved it
   into a folder titled “Labs”, everything worked as expected
 
+- Sravya note: Created Project with no isuue
+
 ### Step 12.4
 
 - Samara’s note: I am considering my notes from the pervious steps as
   changes. Now I will commit with hopefully no issues.
+
+-sravya’s note:already done e
+
+### Step 12.3
+
+Sravya: Created Project with no isuue
+
+### Step 12.4
+
+Sravya: Only after saving the changes, i can use the commit command. And
+sent a commit message.
 
 ### Step 12.5
 
@@ -56,13 +66,6 @@ you are done with your submission.
   code within the GitHub remote
 
 ### Step 12.7
-<<<<<<< HEAD
 
 - Samara’s note: Since we are skipping the clean up, I am making no
   notes.
-=======
-- Samara's note:
-=======
-\#chapter 12 testing 12.3
->>>>>>> ef475d2 (Commit from RStudio)
->>>>>>> de49e3d (update to the .Rmd file)
