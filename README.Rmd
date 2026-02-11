@@ -22,6 +22,7 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 
 # Notes from Chapter 12
 ### Step 12.1
+
 - Samara's note: I already had all of the prerequisits met, so I was able to skip over this step
 
 
@@ -35,6 +36,15 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 
 ### Step 12.4
 - Samara's note: I am considering my notes from the pervious steps as changes. Now I will commit with hopefully no issues.
+
+-sravya's note:already done e
+
+### Step 12.3
+Sravya: Created Project with no isuue 
+
+### Step 12.4
+Sravya: Only after saving the changes, i can use the commit command. And sent a commit message.
+
 
 ### Step 12.5
 - Samara's note: Since I was the first to push, I was able to push without any issues.
