@@ -24,7 +24,6 @@ you are done with your submission.
 - Samara’s note: I already had all of the prerequisits met, so I was
   able to skip over this step
 
-<<<<<<< HEAD
 - Alyvia’s note: I completed this step prior to lab, so all of the
   prerequisites are met.
 
@@ -34,23 +33,14 @@ you are done with your submission.
 
 - Alyvia’s note: I completed this step prior so all of the prerequisites
   are met.
-=======
-- Alyvia’s note: I completed this step prior so all of the prerequisites
-  are met.
-
-- sravya’s note: Already done
->>>>>>> ceb6c80 (done with my notes)
 
 ### Step 12.2
 
 - Samara’s note: Since a repo was already made for us, I did not have to
   go through these steps
 
-<<<<<<< HEAD
 - Shiva’s note: Repository already created, mnoved on to next steps.
 
-=======
->>>>>>> ceb6c80 (done with my notes)
 - Alyvia’s note: This repo was made for us.
 
 - Sravya’s note: Made Repo in previous class.
@@ -61,19 +51,12 @@ you are done with your submission.
   version control. I used the default name for the repo, and saved it
   into a folder titled “Labs”, everything worked as expected
 
-<<<<<<< HEAD
 - Shiva’s note: Followed the steps and created a new project.
 
 - Sravya note: Created Project with no isuue
 
 - Alyvia’s note: I followed this step and created the new project using
   the repo url provided.
-=======
-- Alyvia’s note: I followed this step and created the new project using
-  the repo url provided.
-
-- Sravya note: Created Project with no isuue.
->>>>>>> ceb6c80 (done with my notes)
 
 ### Step 12.4
 
@@ -114,15 +97,13 @@ you are done with your submission.
 - Samara’s note: I was able to see my commit message and the updated
   code within the GitHub remote
 
-<<<<<<< HEAD
 - Sravya’s note: successfully able to see the commit message in README
   file.
 
 - Alyvia’s note: After refreshing the browser, I was able to see my
   commit message and the new line in README.
-=======
+
 - Sravya’s note: Succesfully can see commit messages in GitHub.
->>>>>>> ceb6c80 (done with my notes)
 
 ### Step 12.7
 
