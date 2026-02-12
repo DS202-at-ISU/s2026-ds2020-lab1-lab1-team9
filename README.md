@@ -24,30 +24,21 @@ you are done with your submission.
 - Samara’s note: I already had all of the prerequisits met, so I was
   able to skip over this step
 
-<<<<<<< HEAD
 - Alyvia’s note: I completed this step prior to lab, so all of the
   prerequisites are met.
-=======
+
 - Shiva’s note: Met all the prerequisits.
 
 - Sravya’s note: Already done
-
-- Alyvia’s note: I completed this step prior so all of the prerequisites
-  are met.
->>>>>>> e32e388467895d44a3edb2f8da29dedef1bcabf2
 
 ### Step 12.2
 
 - Samara’s note: Since a repo was already made for us, I did not have to
   go through these steps
 
-<<<<<<< HEAD
 - Alyvia’s note: The repo for this step was provided.
-=======
-- Shiva’s note: Repository already created, mnoved on to next steps.
 
-- Alyvia’s note: This repo was made for us.
->>>>>>> e32e388467895d44a3edb2f8da29dedef1bcabf2
+- Shiva’s note: Repository already created, mnoved on to next steps.
 
 - Sravya’s note: Made Repo in previous class.
 
