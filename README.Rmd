@@ -82,6 +82,9 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 
 - Alyvia's note: After refreshing the browser, I was able to see my commit message and the new line in README.
 
+- Sravya's note: Succesfully can see commit messages in GitHub.
+
+
 ### Step 12.7
 - Samara's note: Since we are skipping the clean up, I am making no notes.
 
