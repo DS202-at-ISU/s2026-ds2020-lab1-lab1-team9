@@ -103,7 +103,7 @@ you are done with your submission.
 - Alyvia’s note: After refreshing the browser, I was able to see my
   commit message and the new line in README.
 
-- Sravya’s note: Succesfully can see commit messages in GitHub.
+- Shiva’s note:
 
 ### Step 12.7
 
@@ -113,3 +113,5 @@ you are done with your submission.
 - Alyvia’s note: This step is meant to be skipped for this lab.
 
 - Sravya’s note: no note.
+
+- Shiva’s note: Asked not to delete in the instructions.

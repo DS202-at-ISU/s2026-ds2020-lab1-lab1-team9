@@ -29,7 +29,6 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 
 - Shiva's note: Met all the prerequisits.
 
-
 - Sravya's note: Already done
 
 - Alyvia's note: I completed this step prior so all of the prerequisites are met.
@@ -52,7 +51,6 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 - Sravya note: Created Project with no isuue 
 
 - Alyvia's note: I followed this step and created the new project using the repo url provided.
-
 
 
 ### Step 12.4
@@ -82,8 +80,7 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 
 - Alyvia's note: After refreshing the browser, I was able to see my commit message and the new line in README.
 
-- Sravya's note: Succesfully can see commit messages in GitHub.
-
+- Shiva's note: 
 
 ### Step 12.7
 - Samara's note: Since we are skipping the clean up, I am making no notes.
@@ -91,4 +88,6 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 - Alyvia's note: This step is meant to be skipped for this lab.
 
 - Sravya's note: no note.
+
+- Shiva's note: Asked not to delete in the instructions.
 
