@@ -66,7 +66,7 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 ### Step 12.5
 - Samara's note: Since I was the first to push, I was able to push without any issues.
 
-- Shiva's note: Faced some problem pushing the changes, was not able to get the push/pull button. Had to use some git rebase commands to complete that task, and then was able to get the push/pull after kniting the Rmd file again.
+- Shiva's note: Faced some problem pushing the changes, was not able to get the push/pull button. Had to use some git rebase commands to complete that task, and then was able to get the push/pull after kniting the Rmd file again. Took some help of instructor when was not able to resolve rebase. Instructor used merge.
 
 - Sravya's note: unable to push after commiting the changes. Resolved it by saving the changes then kniting it into a html file and then used commands in terminal such as "git add .", "git rebase --continue" and :q to quit and resolve all the commits. then was able to use the pull and push command.
 

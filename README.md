@@ -103,7 +103,7 @@ you are done with your submission.
 - Alyvia’s note: After refreshing the browser, I was able to see my
   commit message and the new line in README.
 
-- Shiva’s note:
+- Shiva’s note: The commit message was updated in the README after reloading the browser. 
 
 ### Step 12.7
 
