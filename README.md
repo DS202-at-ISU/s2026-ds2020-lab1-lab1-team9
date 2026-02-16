@@ -31,9 +31,6 @@ you are done with your submission.
 
 - Sravya’s note: Already done
 
-- Alyvia’s note: I completed this step prior so all of the prerequisites
-  are met.
-
 ### Step 12.2
 
 - Samara’s note: Since a repo was already made for us, I did not have to
@@ -61,7 +58,8 @@ you are done with your submission.
 ### Step 12.4
 
 - Samara’s note: I am considering my notes from the pervious steps as
-  changes. Now I will commit with hopefully no issues.
+  changes. Now I will commit with hopefully no issues. Commit worked as
+  intended.
 
 - Shiva’s note: Succesfully commited.
 
@@ -79,7 +77,8 @@ you are done with your submission.
 - Shiva’s note: Faced some problem pushing the changes, was not able to
   get the push/pull button. Had to use some git rebase commands to
   complete that task, and then was able to get the push/pull after
-  kniting the Rmd file again.
+  kniting the Rmd file again. Took some help of instructor when was not
+  able to resolve rebase. Instructor used merge.
 
 - Sravya’s note: unable to push after commiting the changes. Resolved it
   by saving the changes then kniting it into a html file and then used
@@ -103,7 +102,8 @@ you are done with your submission.
 - Alyvia’s note: After refreshing the browser, I was able to see my
   commit message and the new line in README.
 
-- Shiva’s note: The commit message was updated in the README after reloading the browser. 
+- Shiva’s note: The commit message was updated in the README after
+  reloading the browser.
 
 ### Step 12.7
 

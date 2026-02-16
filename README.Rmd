@@ -31,8 +31,6 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 
 - Sravya's note: Already done
 
-- Alyvia's note: I completed this step prior so all of the prerequisites are met.
-
 ### Step 12.2
 - Samara's note: Since a repo was already made for us, I did not have to go through these steps
 
@@ -54,7 +52,7 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 
 
 ### Step 12.4
-- Samara's note: I am considering my notes from the pervious steps as changes. Now I will commit with hopefully no issues.
+- Samara's note: I am considering my notes from the pervious steps as changes. Now I will commit with hopefully no issues. Commit worked as intended.
 
 - Shiva's note: Succesfully commited.
 
@@ -80,7 +78,7 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 
 - Alyvia's note: After refreshing the browser, I was able to see my commit message and the new line in README.
 
-- Shiva's note: 
+- Shiva's note: The commit message was updated in the README after reloading the browser.
 
 ### Step 12.7
 - Samara's note: Since we are skipping the clean up, I am making no notes.
